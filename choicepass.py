@@ -44,15 +44,7 @@ c2 = "\033[0;97m""\033[1;32m""\033[0;97m"
 c3 = "\033[1;31m""\033[0;97m""\033[1;31m"
 os.system('git pull')
 os.system('clear')
-logo = (
-        /$$$$$$   /$$$$$$  /$$   /$$
-       /$$__  $$ /$$__  $$| $$  /$$/
-      | $$  \__/| $$  \ $$| $$ /$$/ 
-      |  $$$$$$ | $$$$$$$$| $$$$$/  
-       \____  $$| $$__  $$| $$  $$  
-       /$$  \ $$| $$  | $$| $$\  $$ 
-      |  $$$$$$/| $$  | $$| $$ \  $$
-       \______/ |__/  |__/|__/  \__/                                                                                                   \n-----------------------------------------------\n➣ Author	: Sufyan Ahmad Shabqadry \n➣ Github	: https://github.com/sufyanahmad	\n➣ GANG		: ALONE FIGHTER KING	\n➣ Ref By	: SuFyaN AhMad	\n-----------------------------------------------" ')  
+logo = ('echo -e "\n\n   JOKER UNITY 007    JOKER UNITY 007   \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n  JOKER UNITY 007   JOKER UNITY 007   \n  JOKER UNITY 007  JOKER UNITY 007    \n  JOKER UNITY 007  JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n   JOKER UNITY 007   JOKER UNITY 007  \n         MOhib ULLAH HERE          \n-----------------------------------------------\n➣ Author : MOHIB ULLAH\n➣ Github : https://github.com/On The Way😍\n➣ Fb Id : https://www.facebook.com/shumaila.javed.357\n➣ Ref By : (JOKER UNITY OWNERS HERE)\n➣ Ref By :     (MOHIB ULLAH) \n-----------------------------------------------" ')                                                                                               \n-----------------------------------------------\n➣ Author	: Sufyan Ahmad Shabqadry \n➣ Github	: https://github.com/sufyanahmad	\n➣ GANG		: ALONE FIGHTER KING	\n➣ Ref By	: SuFyaN AhMad	\n-----------------------------------------------" ')  
 def reg():
     os.system('clear')
     print logo
